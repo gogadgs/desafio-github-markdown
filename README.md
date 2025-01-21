@@ -4,3 +4,5 @@ Desafio da dio para praticar conceitos aprendidos no bootcamp do github
 
 [imagem do markdown](https://cdn.icon-icons.com/icons2/2699/PNG/512/markdown_here_logo_icon_169967.png)
 ![imagem do markdown](https://cdn.icon-icons.com/icons2/2699/PNG/512/markdown_here_logo_icon_169967.png)
+
+> projeto possui bloqueios para avancar sinal pelos lados
